@@ -1,2 +1,6 @@
-# beyondDivineProportions-CORW
-notes on super-rational computational geometry
+beyondDivineProportions
+=======================
+
+_notes on super-rational computational geometry_
+
+[-WORM](https://github.com/dmparrishphd/beyondDivineProportions)
